@@ -1,4 +1,5 @@
 ipykernel==6.29.5
+ipywidgets==8.1.5
 pandas==2.2.2
 seaborn==0.13.2
 matplotlib==3.9.2
@@ -9,3 +10,18 @@ jupyter-summarytools==0.2.3
 Jinja2==3.1.4
 pyarrow==17.0.0
 fastparquet==2024.5.0
+transformers==4.45.2
+requests==2.32.3
+aiohttp[speedups]==3.10.5
+youtube-transcript-api==0.6.2
+nltk==3.9.1
+torch==2.4.1
+accelerate==1.0.1
+openai 1.51.2
+keybert==0.8.5
+setuptools==75.1.0
+tf-keras==2.17.0
+einops==0.8.0
+datasets==3.0.1
+bertopic==0.16.4
+openpyxl==3.1.5

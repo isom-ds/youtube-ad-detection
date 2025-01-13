@@ -164,3 +164,4 @@ cython_debug/
 # Additional ignores
 tmp/
 *.DS_Store
+keys.py
