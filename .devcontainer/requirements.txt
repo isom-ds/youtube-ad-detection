@@ -1,0 +1,11 @@
+ipykernel==6.29.5
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.9.2
+scikit-learn==1.5.1
+scipy==1.14.1
+statsmodels==0.14.2
+jupyter-summarytools==0.2.3
+Jinja2==3.1.4
+pyarrow==17.0.0
+fastparquet==2024.5.0
